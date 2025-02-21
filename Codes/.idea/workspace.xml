@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0349aa4f-cc20-445c-9054-3f42bac6649c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Codes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HoraDoSistema/src/HoraDoSistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/IdiomaSistema.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdiomaSistema/src/IdiomaSistema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeiroPrograma/src/PrimeiroPrograma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResolucaoTela/ResolucaoTela.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ResolucaoTela/src/ResolucaoTela.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdiomaSistema/IdiomaSistema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ResolucaoTela/ResolucaoTela.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/Como o Java lida com múltiplas classes no mesmo arquivo.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/Explicação detalhada do código Java.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/O que é WORA em Java.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/01-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/01-exercicios-curso-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/02-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/02-exercicios-curso-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/03-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/03-exercicios-curso-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/04-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/04-exercicios-curso-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/05-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/06-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/07-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/08-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/09-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/10-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/11-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/12-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/13-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._01-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._01-exercicios-curso-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._02-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._02-exercicios-curso-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._03-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._03-exercicios-curso-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._04-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._04-exercicios-curso-java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._05-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._06-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._07-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._08-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._09-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._10-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._11-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._12-aula-curso-java-slides.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My Learning/slides-java-cursoemvideo/__MACOSX/._13-aula-curso-java-slides.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2tGhxQsyHXJvOCc4nWVkzIwF1na" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.IdiomaSistema.executor": "Run",
+    "Application.ResolucaoTela.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/FLAVIA/Desktop/Java - My Learning/Curso-Java---Gustava-Guanabara",
+    "onboarding.tips.debug.path": "C:/Users/FLAVIA/Desktop/Java - My Learning/Curso-Java---Gustava-Guanabara/Codes/OlaMundoSwing/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0349aa4f-cc20-445c-9054-3f42bac6649c" name="Changes" comment="" />
+      <created>1739984564144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739984564144</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/IdiomaSistema/src/IdiomaSistema.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ResolucaoTela/src/ResolucaoTela.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/OlaMundoSwing/src/OlaMundoSwing.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
