@@ -4,14 +4,25 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CalculadoraIdade/CalculadoraIdade.iml" filepath="$PROJECT_DIR$/CalculadoraIdade/CalculadoraIdade.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Codes.iml" filepath="$PROJECT_DIR$/.idea/Codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EquacaoSegundoGrau/EquacaoSegundoGrau.iml" filepath="$PROJECT_DIR$/EquacaoSegundoGrau/EquacaoSegundoGrau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaCondicional/EstruturaCondicional.iml" filepath="$PROJECT_DIR$/EstruturaCondicional/EstruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturaRepeticao/EstruturaRepeticao.iml" filepath="$PROJECT_DIR$/EstruturaRepeticao/EstruturaRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioRepita/ExercicioRepita.iml" filepath="$PROJECT_DIR$/ExercicioRepita/ExercicioRepita.iml" />
       <module fileurl="file://$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdiomaSistema/IdiomaSistema.iml" filepath="$PROJECT_DIR$/IdiomaSistema/IdiomaSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JogoAdvinhacao/JogoAdvinhacao.iml" filepath="$PROJECT_DIR$/JogoAdvinhacao/JogoAdvinhacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" filepath="$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresMatematicos/OperadoresMatematicos.iml" filepath="$PROJECT_DIR$/OperadoresMatematicos/OperadoresMatematicos.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" filepath="$PROJECT_DIR$/PrimeiroPrograma/PrimeiroPrograma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramaPernas/ProgramaPernas.iml" filepath="$PROJECT_DIR$/ProgramaPernas/ProgramaPernas.iml" />
       <module fileurl="file://$PROJECT_DIR$/ResolucaoTela/ResolucaoTela.iml" filepath="$PROJECT_DIR$/ResolucaoTela/ResolucaoTela.iml" />
       <module fileurl="file://$PROJECT_DIR$/SomaSwing/SomaSwing.iml" filepath="$PROJECT_DIR$/SomaSwing/SomaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteFuncao01/TesteFuncao01.iml" filepath="$PROJECT_DIR$/TesteFuncao01/TesteFuncao01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteFuncao02/TesteFuncao02.iml" filepath="$PROJECT_DIR$/TesteFuncao02/TesteFuncao02.iml" />
       <module fileurl="file://$PROJECT_DIR$/TesteTipos/TesteTipos.iml" filepath="$PROJECT_DIR$/TesteTipos/TesteTipos.iml" />
       <module fileurl="file://$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetor01/Vetor01.iml" filepath="$PROJECT_DIR$/Vetor01/Vetor01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste/teste.iml" filepath="$PROJECT_DIR$/teste/teste.iml" />
     </modules>
   </component>
 </project>
